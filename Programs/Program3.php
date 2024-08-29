@@ -1,5 +1,5 @@
 <?php
-require './Packages/Classes/palindrome.php';
+require_once './Packages/Classes/Palindrome.php';
 
 $palindrome = new Palindrome();
 $userInput = $palindrome->accepts("Madam");

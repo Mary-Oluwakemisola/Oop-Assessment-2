@@ -23,6 +23,9 @@ class Number{
     {
         echo $this->number . " is " . ($this->isEven() ? "an Even number!" : "an Odd number!") . "\n";
     }
+
+
+    
     public function isPrime(int $number): bool {
         if ($this->number <= 1) {
             return false;
@@ -35,12 +38,11 @@ class Number{
     }
         return true;
     }
-
-
     public function checkPrime()
     {
         echo $this->number . " is " . ($this->isPrime($this->number) ? "a Prime number!" : "not a Prime number.") . "\n";
     }
+
     public function myName(): bool
     {
         return $this->number % 3 === 0;

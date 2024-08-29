@@ -23,5 +23,3 @@ class Palindrome
         echo $this->palindrome . ($this->isPalindrome() ? " is a palindrome!" : " is not a palindrome.");
     }
 }
-// $palindrome = new Palindrome;
-// $palindrome->accepts(")(()")->checkPalindrome();
