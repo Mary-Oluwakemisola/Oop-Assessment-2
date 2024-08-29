@@ -35,37 +35,37 @@ Create variables for the necessary dimensions.  Assign values to the dimensions.
 
 Print out the result in this template “The area of a sphere with radius 4 is 29 and the volume of a sphere with radius 4 is 47”.
 
-My Solution: [Program 2](./Programs/program2.php)
+My Solution: [Program 2](./Packages/Classes/ShapeManager.php)
 
 ## Question 3
 
 Write a program to determine if a given string is a palindrome.
 
-My Solution: [Program 3](./Programs/program3.php)
+My Solution: [Program 3](./Packages/Classes/Palindrome.php)
 
 ## Question 4
 
 Write a program to determine if a number is even or odd.
 
-My Solution: [Program 4](./Programs/program4.php)
+My Solution: [Program 4](./Packages/Classes/Number.php)
 
 ## Question 5
 
 Write a program to determine if a number is a prime number or not.
 
-My Solution: [Program 5](./Programs/program5.php)
+My Solution: [Program 5](./Packages/Classes/Number.php)
 
 ## Question 6
 
 Write a program to determine if a year is a leap year or not.
 
-My Solution: [Program 6](./Programs/program6.php)
+My Solution: [Program 6](./Packages/Classes/Year.php)
 
 ## Question 7
 
 Write a program that receives a number from a user and displays “Your Name” if it is a multiple of 3, and “Backend” if it is not a multiple of 3
 
-My Solution: [Program 7](./Programs/program7.php)
+My Solution: [Program 7](./Packages/Classes/Number.php)
 
 ## Language Used
 
